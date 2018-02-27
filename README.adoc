@@ -1,0 +1,11 @@
+= Simple Sink Service
+
+== Maintainer
+
+* Mark Heckler
+* mailto:mark.heckler@gmail.com[mark.heckler@gmail.com]
+* https://twitter.com/MkHeck[@mkheck on Twitter]
+
+== Purpose
+
+Demonstrates a minimalist (but horizontally scalable) Spring Cloud Stream sink application using RabbitMQ
